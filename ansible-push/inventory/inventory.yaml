@@ -1,0 +1,11 @@
+testservers:
+  hosts:
+    ansible.unholybastards.net
+gitlab:
+  hosts:
+    gitlab.unholybastards.net
+jenkins:
+  hosts:
+    jenkins.unholybastards.net
+
+  
